@@ -1,1 +1,1 @@
-testing bot
+Edge Computing happens exactly where the data is generated—on the device itself (e.g., a sensor or a camera). It is designed for instant action with zero latency.
